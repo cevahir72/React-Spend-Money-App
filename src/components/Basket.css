@@ -28,7 +28,7 @@ ul {
 button {
     border: none;
     outline: none;
-    background: linear-gradient(90deg, #ff9966, #ff5e62);
+    background: linear-gradient(0deg, rgba(253,253,255,1) 0%, rgba(71,204,89,1) 0%, rgba(0,185,24,1) 100%);
     padding: 0.5rem 1rem;
     width: 8rem;
     border-radius: 5px;
